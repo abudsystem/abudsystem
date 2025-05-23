@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and aspi
 
 ## 📂 Featured Projects
 
-### 📝 [nachoeduca](https://github.com/abudsistem/bachend-nachoeduca)
+### 📝 [nachoeduca](https://github.com/abudsystem/bachend-nachoeduca)
 An application designed to support students of *Unidad Educativa Salcedo* by offering access to course content, teacher resources, and other useful information.
 
 > Check out more repositories below ⬇️
@@ -39,7 +39,7 @@ An application designed to support students of *Unidad Educativa Salcedo* by off
 ## 📫 Let's Connect
 
 - 📧 Email: abudsystem@gmail.com  
-- 🌐 Portfolio: [abudsistem.com](https://abudsystem.com)
+- 🌐 Portfolio: [abudsystem.com](https://abudsystem.com)
 
 ---
 
